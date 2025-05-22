@@ -35,4 +35,4 @@ INSTALACION DEL PROYECTO REACT
 3. npm install
 4. npm run dev
 
-NOTA: Tener en cuanta el .env si se va a probar con api local o en la nuve
+NOTA: Tener en cuanta el .env si se va a probar con api local o en la nube / como esta el repositorio es para el despliegue en la nube
