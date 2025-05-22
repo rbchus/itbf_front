@@ -34,3 +34,5 @@ INSTALACION DEL PROYECTO REACT
 2. cd hoteles_frontend
 3. npm install
 4. npm run dev
+
+NOTA: Tener en cuanta el .env si se va a probar con api local o en la nuve
